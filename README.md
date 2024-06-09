@@ -7,3 +7,5 @@
 # Versoniamento
 
 ##Salvando alterações no GIT 
+
+* Comando git push
